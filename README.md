@@ -1,10 +1,40 @@
-<!---
-- 👋 Hi, I’m @dureen
-- 👀 I’m interested in any programming languages such as C, PHP, SQL, Javascript, Python, and many others. 
-- 🌱 I’m currently exploring and developing a website using frameworks like code igniter, laravel, and expressjs.
-- 💞️ I’m looking to collaborate on front-end web developer or anything related to programming language.
-- 📫 How to reach me? Join me on discord : https://discord.gg/wqs2zTSgZQ
+# Hi, I'm Dwi Priyono 👋
 
-dureen/dureen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer interested in web development and various programming languages.
+
+## About Me
+
+- 🔭 Currently exploring and building web applications
+- 🌱 Learning & working with **PHP**, **JavaScript/TypeScript**, **Python**, and more
+- 💡 Experience with frameworks: **CodeIgniter**, **Laravel**, **Express.js**, **Vue.js**, **React**
+- 🤝 Open to collaboration on web development projects
+
+## Tech Stack
+
+**Languages**  
+`PHP` `JavaScript` `TypeScript` `Python` `SQL` `Java`
+
+**Backend**  
+`CodeIgniter` `Laravel` `Express.js` `Node.js`
+
+**Frontend**  
+`Vue.js` `React` `Bootstrap` `HTML/CSS`
+
+**Tools**  
+`Git` `MySQL` `SQLite` `MongoDB`
+
+## Featured Repositories
+
+- [vue-express-ts-simple](https://github.com/dureen/vue-express-ts-simple) – Vue 3 + Express + TypeScript starter
+- [typescript-starter](https://github.com/dureen/typescript-starter) – Clean TypeScript starter project
+- [ci4-appstarter](https://github.com/dureen/ci4-appstarter) – CodeIgniter 4 with authentication
+- [ci4-appstarter-api](https://github.com/dureen/ci4-appstarter-api) – CodeIgniter 4 REST API sample
+
+## Connect with Me
+
+- Discord: [Join here](https://discord.gg/wqs2zTSgZQ)
+- GitHub: [@dureen](https://github.com/dureen)
+
+---
+
+Thanks for visiting!
